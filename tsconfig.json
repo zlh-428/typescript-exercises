@@ -12,7 +12,7 @@
   },
   "include": [
     "src/**/*.ts" // 包含的文件或目录
-  ],
+, "src/exercises/objects.test.tsx"  ],
   "exclude": [
     "node_modules" // 排除的文件或目录
   ]
